@@ -1,0 +1,2 @@
+To use the website , go to the link given below and click "allow temporary access" , wait for some time , it will work
+https://cors-anywhere.herokuapp.com/corsdemo
